@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Coding\MindX\FT2\FinalTest5\Source.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding\MindX\FT2\FinalTest5\Source.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding\MindX\FT2\FinalTest5\Source.cpp(30,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FinalTest5.vcxproj -> D:\Coding\MindX\FT2\FinalTest2\x64\Debug\FinalTest5.exe
